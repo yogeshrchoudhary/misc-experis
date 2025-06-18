@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "records", "records\records.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "misc-cs-features", "misc-cs-features\misc-cs-features.csproj", "{C9BEC527-D3A8-4DD1-BBDB-2CDBBA7F9BB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theaterBookingDemo", "theaterBookingDemo\theaterBookingDemo.csproj", "{C5217732-DC5B-4A40-BB36-E8C510016D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{C9BEC527-D3A8-4DD1-BBDB-2CDBBA7F9BB0}.Release|x64.Build.0 = Release|Any CPU
 		{C9BEC527-D3A8-4DD1-BBDB-2CDBBA7F9BB0}.Release|x86.ActiveCfg = Release|Any CPU
 		{C9BEC527-D3A8-4DD1-BBDB-2CDBBA7F9BB0}.Release|x86.Build.0 = Release|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Debug|x64.Build.0 = Debug|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Debug|x86.Build.0 = Debug|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Release|x64.ActiveCfg = Release|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Release|x64.Build.0 = Release|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Release|x86.ActiveCfg = Release|Any CPU
+		{C5217732-DC5B-4A40-BB36-E8C510016D9C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
